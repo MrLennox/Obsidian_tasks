@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obsidian Todos</string>
+    <string name="widget_name">Obsidian Todos</string>
+    <string name="widget_description">Zeigt offene Todos aus deinem lokalen Obsidian-Vault direkt auf dem Homescreen.</string>
+    <string name="widget_loading">Todos werden geladen…</string>
+</resources>
